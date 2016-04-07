@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: #fff400; 
+    font-family : AR BONNIE;
+    font-size : 100px;
+}
+
+p {
+    color: #ffffff;
+    font-family: Verdana;
+    font-size :20px;
+}
+
+#love {
+	color : #f388a1;
+	border: 1px solid white;
+    padding : 10px;
+
+}
